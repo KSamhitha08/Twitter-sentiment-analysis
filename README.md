@@ -3,3 +3,4 @@
               
               The dataset is retrieved using the method described in this project. This dataset consists of 50,000 movie reviews taken from IMDb. Half of the data is used for training while the other half is used for testing. Moreover, both the training and testing dataset have 50% of positive reviews and 50% of negative reviews. 
 In each of the reviews, users are allowed to rate the movie from 1 to 10. In order to transform this rating scale to a binary label, we define a review as negative if its rating is less than 4 and positive if its rating is more than 7, reviews with ratings between this range are omitted.
+
